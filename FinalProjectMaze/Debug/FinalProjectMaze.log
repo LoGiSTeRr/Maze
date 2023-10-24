@@ -1,0 +1,7 @@
+﻿  TopAndFiles.cpp
+  UI.cpp
+C:\Users\GL503GE\source\repos\FinalProjectMaze\FinalProjectMaze\UI.cpp(122,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\GL503GE\source\repos\FinalProjectMaze\FinalProjectMaze\UI.cpp(142,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\GL503GE\source\repos\FinalProjectMaze\FinalProjectMaze\UI.cpp(161,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  FinalProjectMaze.vcxproj -> C:\Users\GL503GE\source\repos\FinalProjectMaze\Debug\FinalProjectMaze.exe
